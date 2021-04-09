@@ -1,6 +1,5 @@
 from random import *
-#Programme jeu puissance 4 par Jason Mourier
-
+#Programme jeu puissance 4 par Jason
 def grille_vide(): 
     grille = [[0 for i in range(7)] for j in range(6)]
     return grille
