@@ -14,7 +14,7 @@ def affiche(g):
                 g[i][j] = "X"
             else:
                 g[i][j] = "0"
-    for i in range(len(g)):
+    for i in range(len(g)):s
         return g
 
 def coup_possible(g, c):
